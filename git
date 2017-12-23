@@ -1,0 +1,56 @@
+[33mcommit 5a16c5665755df2da5e03c6d11fb9cfa8171df08[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: a6e3f00 c318105
+Author: ziliang.yao <yaoziliang@163.com>
+Date:   Thu Dec 21 22:47:07 2017 +0800
+
+    conflict solved.
+
+[33mcommit a6e3f00b012d481eb57d45f8c0e07f4778a0f7f8[m
+Author: ziliang.yao <yaoziliang@163.com>
+Date:   Thu Dec 21 22:45:18 2017 +0800
+
+    remove one line in master
+
+[33mcommit c318105eab32c2dc4409bf83824e9000db98c65e[m[33m ([m[1;32mchange_site[m[33m)[m
+Author: ziliang.yao <yaoziliang@163.com>
+Date:   Thu Dec 21 22:44:39 2017 +0800
+
+    4rd commit
+
+[33mcommit 6e20327af8a4640c27e55bf1920ff92d049e5f23[m
+Author: ziliang.yao <yaoziliang@163.com>
+Date:   Thu Dec 21 22:40:34 2017 +0800
+
+    3rd commit
+
+[33mcommit b03373e0c8a724dac65492a7b1f8db140c7e00ba[m
+Author: ziliang.yao <yaoziliang@163.com>
+Date:   Thu Dec 21 21:06:41 2017 +0800
+
+    another commit
+
+[33mcommit 75473ccb52c48eed33a08ef268c28fb2517fbac6[m
+Author: ziliang.yao <yaoziliang@163.com>
+Date:   Thu Dec 21 21:02:24 2017 +0800
+
+    this is the second commit.
+
+[33mcommit 6ce71635fc27e7f3f15cec7b31d5e656b666ac5e[m
+Author: ziliang.yao <yaoziliang@163.com>
+Date:   Thu Dec 21 20:33:37 2017 +0800
+
+    second file
+
+[33mcommit 7cccb4dd9840b8f1de270fe44ded5dcb5d18505b[m
+Author: ziliang.yao <yaoziliang@163.com>
+Date:   Thu Dec 21 20:30:54 2017 +0800
+
+    Update README.md
+    
+    The second change.
+
+[33mcommit 0318f490ae571ae574b6c4b2881f6d9751e55157[m
+Author: ziliang.yao <yaoziliang@163.com>
+Date:   Thu Dec 21 20:20:56 2017 +0800
+
+    This is the first commit
